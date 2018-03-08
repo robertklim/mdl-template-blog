@@ -1,0 +1,7 @@
+tempfile.txt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+images/
+!images/bg_*.jpg
